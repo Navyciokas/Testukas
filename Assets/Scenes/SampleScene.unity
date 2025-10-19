@@ -731,6 +731,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: slime_spike_flat (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9028390585665502647, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2083,6 +2087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: slime_spike_flat (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 9028390585665502647, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2139,6 +2147,10 @@ PrefabInstance:
     - target: {fileID: 3784417893062805262, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
       propertyPath: m_Name
       value: slime_spike_flat (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028390585665502647, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3070,6 +3082,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: slime_spike_flat (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 9028390585665502647, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3326,6 +3342,10 @@ PrefabInstance:
     - target: {fileID: 3784417893062805262, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
       propertyPath: m_Name
       value: slime_spike_flat (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028390585665502647, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4487,6 +4507,10 @@ PrefabInstance:
     - target: {fileID: 3784417893062805262, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
       propertyPath: m_TagString
       value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 9028390585665502647, guid: 8269f4db8a0f84b48b447a96c4c4c21a, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 0}
